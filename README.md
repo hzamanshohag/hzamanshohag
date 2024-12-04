@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently  studing
+As a Professional MERN Stack Developer and Social Media Marketing Strategist, I blend technical expertise with creative marketing strategy to deliver end-to-end digital solutions. I have worked on web development, right from making intuitive front-end interfaces to developing robust back-end infrastructures using MongoDB, Express.js, React, and Node.js. This is supported by in-depth knowledge of the dynamics of social media, helping me design and run marketing campaigns that engage targeted audiences and increase engagement and raise brand profiles.
 
 
 ## 🌐 Socials:

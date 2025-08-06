@@ -1,5 +1,7 @@
 # 💫 About Me:
-As a Professional MERN Stack Developer and Social Media Marketing Strategist, I blend technical expertise with creative marketing strategy to deliver end-to-end digital solutions. I have worked on web development, right from making intuitive front-end interfaces to developing robust back-end infrastructures using MongoDB, Express.js, React, and Node.js. This is supported by in-depth knowledge of the dynamics of social media, helping me design and run marketing campaigns that engage targeted audiences and increase engagement and raise brand profiles.
+I’m a Full-Stack MERN Developer and Digital Marketing Strategist with a passion for creating impactful digital solutions. By blending deep technical knowledge with strategic marketing insights, I build scalable, high-performance web applications that not only function flawlessly but also drive brand growth.
+
+Proficient in TypeScript, Redux, Next.js, and modern web technologies, I focus on delivering user-centric experiences that align with business goals. My background in social media strategy and data-driven marketing helps me craft solutions that enhance engagement and maximize reach.
 
 
 ## 🌐 Socials:

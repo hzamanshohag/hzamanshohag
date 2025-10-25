@@ -21,7 +21,7 @@
 ## 🧠 About Me
 
 - 💼 I specialize in **MERN Stack Development** — building full-featured web applications from frontend to backend.  
-- ⚙️ Skilled in **TypeScript**, **Redux Toolkit**, **Next.js**, and modern UI frameworks.  
+- ⚙️ Skilled in **TypeScript**, **Redux**, **Next.js**, and modern UI frameworks.  
 - 📈 I integrate **social media strategy** and **marketing analytics** into digital products to maximize reach.  
 - 🎨 I value **clean design, performance optimization,** and **user-centric experiences**.  
 - 🌱 Currently exploring **advanced Next.js features**, **TypeScript**, and **backend scalability**.  
@@ -35,7 +35,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend Skills**

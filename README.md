@@ -119,13 +119,15 @@ Let’s connect and create something impactful together.
 
 ---
 
-<!-- GITHUB SNAKE -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
-</p>
+<!-- 🐍 GITHUB CONTRIBUTION SNAKE (3D STYLE) -->
+<div align="center">
+  <img alt="3D GitHub Snake" 
+       src="https://raw.githubusercontent.com/hzamanshohag/hzamanshohag/output/github-contribution-grid-snake-dark.svg" 
+       width="100%" 
+       style="border-radius: 12px; box-shadow: 0px 0px 25px rgba(0, 255, 200, 0.4); transform: perspective(800px) rotateX(5deg) rotateY(-5deg); transition: all 0.3s ease;" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🐍_Keep_the_Contributions_Flowing!-1abc9c?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
 
 ---

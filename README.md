@@ -91,8 +91,6 @@
 
 ---
 
-## 🧭 Visitor Count
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hzamanshohag&label=Profile%20views&color=0e75b6&style=flat" alt="hzamanshohag" /> 
   <a href="https://github.com/hzamanshohag?tab=followers">

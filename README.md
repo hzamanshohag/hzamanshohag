@@ -52,14 +52,22 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hzamanshohag&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hzamanshohag&theme=dark&hide_border=false" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzamanshohag&theme=dark&hide_border=false&layout=compact" height="150"/>
-</p>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hzamanshohag&show_icons=true&theme=radical&include_all_commits=true&hide_border=false" height="180" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hzamanshohag&theme=radical&hide_border=false" height="180" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzamanshohag&layout=compact&theme=radical&hide_border=false" height="150" />
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hzamanshohag&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=ffffff" width="100%"/>
+
+</div>
+
 
 ---
 

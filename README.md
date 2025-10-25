@@ -82,21 +82,39 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://facebook.com/hzaman.shohag"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/hzaman.shohag"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hzaman-shohag"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/hzaman_shohag"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-</p>
+<div align="center">
+
+<a href="https://facebook.com/hzaman.shohag" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://instagram.com/hzaman.shohag" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://linkedin.com/in/hzaman-shohag" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/hzaman_shohag" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hzamanshohag&label=Profile%20views&color=0e75b6&style=flat" alt="hzamanshohag" /> 
-  <a href="https://github.com/hzamanshohag?tab=followers">
-    <img src="https://img.shields.io/github/followers/hzamanshohag?label=Followers&style=social" alt="GitHub Followers">
-  </a>
+
+💙 Thank you for visiting my profile!  
+Let’s connect and create something impactful together.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hzamanshohag&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+<a href="https://github.com/hzamanshohag?tab=followers" target="_blank">
+  <img src="https://img.shields.io/github/followers/hzamanshohag?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"/>
+</a>
+
 </div>
+
 
 ---
 

@@ -93,13 +93,12 @@
 
 ## 🧭 Visitor Count
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hzamanshohag&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img alt="visitors (fallback)" src="https://img.shields.io/badge/visitors-👀-grey.svg" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saidee-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="saidee-hasan" /> 
+  <a href="https://github.com/saidee-hasan?tab=followers">
+    <img src="https://img.shields.io/github/followers/saidee-hasan?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</div>
 
 ---
 

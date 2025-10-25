@@ -8,12 +8,13 @@
 </p>
 
 <div align="center">
-  <img src="./hzaman_shohag.jpg" alt="Md Hasanuzzaman Shohag" width="300" style="border-radius: 12px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.2);" />
+  <img src="./hzaman_shohag.jpg" alt="Md Hasanuzzaman Shohag" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hasanuzzaman+Shohag!;+A+Passionate+FullStack+Web+Developer+from+Bangladesh🇧🇩" alt="Typing Animation" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=FF6B6B&lines=Hi+There!+👋;+I'm+Hasanuzzaman+Shohag!;+A+Passionate+FullStack+Web+Developer+from+Bangladesh🇧🇩" alt="Typing Animation"/>
+</h1>
+
 
 ---
 

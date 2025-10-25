@@ -7,6 +7,14 @@
   By combining deep technical knowledge with strategic insights, I create scalable, high-performing web applications that drive both engagement and brand growth.
 </p>
 
+<div align="center">
+  <img src="https://i.ibb.co.com/0jFmmpf1/Whats-App-Image-2025-08-15-at-11-08-44-PM-1.jpg" alt="Saidee Hasan Banner" width="100%" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hasanuzzaman+Shohag!;+A+Passionate+Full Stack+Web+Developer+from+Bangladesh🇧🇩" />
+</h1>
+
 ---
 
 ## 🧠 About Me

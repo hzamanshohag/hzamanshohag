@@ -19,17 +19,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://facebook.com/hzaman.shohag"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/hzaman.shohag"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hzaman-shohag"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/hzaman_shohag"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ### **Frontend Mastery**
@@ -87,6 +76,17 @@
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=hzamanshohag&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://facebook.com/hzaman.shohag"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/hzaman.shohag"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hzaman-shohag"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/hzaman_shohag"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
 ---

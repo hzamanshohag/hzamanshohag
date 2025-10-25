@@ -73,11 +73,18 @@
 
 ---
 
-## 🔝 Top Contributed Repositories
+## ⭐ Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hzamanshohag&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=hzamanshohag&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+       alt="Top Contributed Repositories" 
+       style="border-radius: 12px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.2);" />
 </p>
+
+<p align="center">
+  Explore more on <a href="https://github.com/hzamanshohag?tab=repositories" target="_blank">my GitHub repositories</a>!
+</p>
+
 
 ---
 

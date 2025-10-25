@@ -76,9 +76,9 @@
 
 ## 🏆 Achievements
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hzamanshohag&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hzamanshohag&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -93,9 +93,11 @@
 ## 🧭 Visitor Count
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=hzamanshohag&icon=0&color=0"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=hzamanshohag&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img alt="visitors (fallback)" src="https://img.shields.io/badge/visitors-👀-grey.svg" />
 </p>
 
 ---

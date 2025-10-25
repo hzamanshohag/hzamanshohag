@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co.com/0jFmmpf1/Whats-App-Image-2025-08-15-at-11-08-44-PM-1.jpg" alt="Saidee Hasan Banner" width="100%" />
+  <img src="./hzaman_shohag.jpg" alt="Md Hasanuzzaman Shohag" width="100%" />
 </div>
 
 <h1 align="center">

@@ -25,6 +25,8 @@
 - 📈 I integrate **social media strategy** and **marketing analytics** into digital products to maximize reach.  
 - 🎨 I value **clean design, performance optimization,** and **user-centric experiences**.  
 - 🌱 Currently exploring **advanced Next.js features**, **TypeScript**, and **backend scalability**.  
+- 📧 Email: [hzaman.live@gmail.com](mailto:hzaman.live@gmail.com)  
+- 📞 Phone / WhatsApp: [+880 1312116844](https://wa.me/8801312116844) 
 
 ---
 

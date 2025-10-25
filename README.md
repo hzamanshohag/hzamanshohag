@@ -71,9 +71,29 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Featured Projects
 
-[![](https://github-profile-trophy.vercel.app/?username=hzamanshohag&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=hzamanshohag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+
+### 🚀 [ElectroPoll](https://github.com/saidee-hasan/electropoll)
+A full-stack **voting platform** with real-time result updates and live socket connections.  
+🛠 **Tech Stack:** MERN • Socket.io
+
+---
+
+### 💼 [Portfolio Pro](https://github.com/saidee-hasan/portfolio)
+A modern **developer portfolio** template built for speed, style, and scalability.  
+🛠 **Tech Stack:** Next.js • Framer Motion
+
+---
+
+### ✍️ [BlogSphere](https://github.com/saidee-hasan/fullstack-blog-app)
+A clean, CMS-style **blogging platform** for creators to publish and manage content seamlessly.  
+🛠 **Tech Stack:** React • Node.js • MongoDB
+
+</div>
+
+
 
 ---
 

@@ -73,25 +73,11 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
-
-### 🚀 [ElectroPoll](https://github.com/saidee-hasan/electropoll)
-A full-stack **voting platform** with real-time result updates and live socket connections.  
-🛠 **Tech Stack:** MERN • Socket.io
-
----
-
-### 💼 [Portfolio Pro](https://github.com/saidee-hasan/portfolio)
-A modern **developer portfolio** template built for speed, style, and scalability.  
-🛠 **Tech Stack:** Next.js • Framer Motion
-
----
-
-### ✍️ [BlogSphere](https://github.com/saidee-hasan/fullstack-blog-app)
-A clean, CMS-style **blogging platform** for creators to publish and manage content seamlessly.  
-🛠 **Tech Stack:** React • Node.js • MongoDB
-
-</div>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [ElectroPoll](https://github.com/saidee-hasan/electropoll) | Full-stack voting platform with real-time results | MERN, Socket.io |
+| [Portfolio Pro](https://github.com/saidee-hasan/portfolio) | Modern developer portfolio template | Next.js, Framer Motion |
+| [BlogSphere](https://github.com/saidee-hasan/fullstack-blog-app) | CMS-style blogging platform | React, Node, MongoDB |
 
 
 

@@ -62,11 +62,12 @@
 
 ## 🏆 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [ElectroPoll](https://github.com/saidee-hasan/electropoll) | Full-stack voting platform with real-time results | MERN, Socket.io |
-| [Portfolio Pro](https://github.com/saidee-hasan/portfolio) | Modern developer portfolio template | Next.js, Framer Motion |
-| [BlogSphere](https://github.com/saidee-hasan/fullstack-blog-app) | CMS-style blogging platform | React, Node, MongoDB |
+| 🚀 **Project** | 📝 **Description** | 💻 **Tech Stack** |
+|----------------|------------------|------------------|
+| [**ElectroPoll**](https://github.com/saidee-hasan/electropoll) | A full-stack voting platform featuring real-time result updates and live socket connections. | ![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| [**Portfolio Pro**](https://github.com/saidee-hasan/portfolio) | A modern developer portfolio template built for speed, style, and scalability. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| [**BlogSphere**](https://github.com/saidee-hasan/fullstack-blog-app) | A CMS-style blogging platform for creators to publish and manage content seamlessly. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+
 
 
 

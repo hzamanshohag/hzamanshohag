@@ -1,11 +1,11 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi My Best Wishes👋, I'm Md Hasanuzzaman Shohag</h1>
+<h1 align="center">👋 Hey There! I'm Md Hasanuzzaman Shohag</h1>
 
 
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&center=true&vCenter=true&width=900&height=70&duration=4000&color=12C2E9&lines=I'm+Md+Hasanuzzaman+Shohag;Full+Stack+MERN+Developer;NextJS+Developer" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Robot&size=50&pause=1000&center=true&vCenter=true&width=900&height=80&duration=4000&lines=I'm+Md+Hasanuzzaman+Shohag;Full+Stack+MERN+Developer;NextJS+Developer&color=12C2E9" alt="Typing Animation"/>
 </p>
 
 <!-- Profile Image -->
@@ -64,11 +64,49 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Featured Projects
-| 🌐 **Project** | 🧾 **Description** | ⚙️ **Tech Stack** |
-|----------------|------------------|------------------|
-| [**ElectroPoll**](https://github.com/hzamanshohag) | Real-time full-stack voting app with live socket integration. | ![MERN](https://img.shields.io/badge/MERN-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-000?style=flat&logo=socket.io) |
-| [**Portfolio Pro**](https://github.com/hzamanshohag) | Modern, animated dev portfolio built with Next.js + Framer Motion. | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer) |
-| [**BlogSphere**](https://github.com/hzamanshohag) | CMS-style blogging platform for content creators. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">🌐 Project</th>
+      <th align="center">📝 Description</th>
+      <th align="center">⚙️ Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/hzamanshohag"><b>ElectroPoll</b></a>
+      </td>
+      <td align="center">Real-time full-stack voting app with live socket integration 🔥</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MERN-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-000?style=for-the-badge&logo=socket.io&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/hzamanshohag"><b>Portfolio Pro</b></a>
+      </td>
+      <td align="center">Modern, animated dev portfolio built with Next.js + Framer Motion ✨</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/hzamanshohag"><b>BlogSphere</b></a>
+      </td>
+      <td align="center">CMS-style blogging platform for content creators 📝</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -95,7 +133,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 Let’s Build Something Great
+### 🌟 Creating Magic Together
 <div align="center">
   
 💙 *Thank you for visiting my profile!*  

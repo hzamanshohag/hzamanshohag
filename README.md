@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=FF6B6B&lines=Hi+There!+👋;+I'm+Hasanuzzaman+Shohag!;+A+Passionate+Full+Stack+Web+Developer+from+Bangladesh🇧🇩" alt="Typing Animation"/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=50&duration=3000&pause=1000&color=00e9ff&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;React+Developer;VueJS+Developer;Expert+Responsive+Designer;NextJS+Developer;Progmming+Enthusiast)](https://git.io/typing-svg)
 </h1>
 
 

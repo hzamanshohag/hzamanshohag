@@ -1,11 +1,11 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">👋 Hey There! I'm Md Hasanuzzaman Shohag</h1>
+<h1 align="center">👋 Hi! I'm Md Hasanuzzaman Shohag</h1>
 
 
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Robot&size=50&pause=1000&center=true&vCenter=true&width=900&height=80&duration=4000&lines=Full+Stack+MERN+Developer;NextJS+Developer;Expert+Responsive+Designer&color=12C2E9" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Robot&size=50&pause=1000&center=true&vCenter=true&width=900&height=80&duration=4000&lines=Full+Stack+MERN+Developer;NextJS+Developer;Lifelong+Learner&color=12C2E9" alt="Typing Animation"/>
 </p>
 
 <!-- Profile Image -->
@@ -21,9 +21,9 @@
 ⚙️ Experienced in **TypeScript**, **Next.js**, **Redux**, and **Tailwind CSS**.  
 📊 Blends **SEO & Digital Marketing** into development for conversion-optimized web experiences.  
 🎨 Believes in the power of **design, performance, and user experience**.  
-🌱 Currently leveling up on **Next.js 15** & **Advanced TypeScript**.  
-📧 [hzaman.live@gmail.com](mailto:hzaman.live@gmail.com)  
-📞 [+880 1312116844](https://wa.me/8801312116844)
+🌱 Currently leveling up on **Next.js** & **Advanced TypeScript**.  
+📧 Reach me at: [hzaman.live@gmail.com](mailto:hzaman.live@gmail.com)  
+📞 WhatsApp me: [+880 1312116844](https://wa.me/8801312116844)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

@@ -32,27 +32,21 @@
 
 ## 💻 Tech Stack
 
+### **Programming Language**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+</div>
+
 ### **Frontend Mastery**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="left"> <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="shadcn ui logo" /> </div>
 
 ### **Backend Skills**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="left"> <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" /> </div>
 
 ### **Tools & Platforms**
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<div align="left"> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=openai" height="40" alt="chatgpt logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=canva" height="40" alt="canva logo" /> </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

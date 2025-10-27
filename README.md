@@ -71,41 +71,87 @@
       <th align="center">🌐 Project</th>
       <th align="center">📝 Description</th>
       <th align="center">⚙️ Tech Stack</th>
+      <th align="center">🔗 Live Demo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/hzamanshohag"><b>ElectroPoll</b></a>
+        <a href="https://github.com/hzamanshohag/electropoll"><b>ElectroPoll</b></a>
       </td>
-      <td align="center">Real-time full-stack voting app with live socket integration 🔥</td>
+      <td align="center">Real-time voting platform with live results, admin dashboard, and secure authentication 🗳️</td>
       <td align="center">
-        <img src="https://img.shields.io/badge/MERN-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket.io-000?style=for-the-badge&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-15-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
       </td>
-    </tr>
-    <tr>
       <td align="center">
-        <a href="https://github.com/hzamanshohag"><b>Portfolio Pro</b></a>
-      </td>
-      <td align="center">Modern, animated dev portfolio built with Next.js + Framer Motion ✨</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+        <a href="https://electropoll.vercel.app">🚀 Live</a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/hzamanshohag"><b>BlogSphere</b></a>
+        <a href="https://github.com/hzamanshohag/devmart"><b>DevMart</b></a>
       </td>
-      <td align="center">CMS-style blogging platform for content creators 📝</td>
+      <td align="center">E-commerce platform for developers with cart, wishlist, and payment integration 🛒</td>
       <td align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" />
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe" />
+      </td>
+      <td align="center">
+        <a href="https://devmart.vercel.app">🚀 Live</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/hzamanshohag/taskflow-pro"><b>TaskFlow Pro</b></a>
+      </td>
+      <td align="center">Advanced project management tool with drag-drop, team collaboration & analytics 📊</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" />
+      </td>
+      <td align="center">
+        <a href="https://taskflow-pro.vercel.app">🚀 Live</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/hzamanshohag/ai-content-generator"><b>AI Content Studio</b></a>
+      </td>
+      <td align="center">AI-powered content generation platform with GPT integration and template library 🤖</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-15-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss" />
+      </td>
+      <td align="center">
+        <a href="https://ai-content-studio.vercel.app">🚀 Live</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/hzamanshohag/fit-tracker"><b>FitTracker</b></a>
+      </td>
+      <td align="center">Fitness tracking app with workout plans, progress analytics, and social features 💪</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MERN-4EA94B?style=flat-square&logo=mongodb" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens" />
+      </td>
+      <td align="center">
+        <a href="https://fittracker-app.vercel.app">🚀 Live</a>
       </td>
     </tr>
   </tbody>
 </table>
+
+### 💡 Currently Building
+- **CodeCollab** - Real-time code editor with video calls 👨‍💻
+- **FinanceFlow** - Personal finance dashboard with AI insights 💰
+- **EduPlatform** - Interactive learning management system 🎓
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

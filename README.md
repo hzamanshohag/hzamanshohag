@@ -57,11 +57,9 @@
 
 <br/>
 
-<!-- Additional GitHub Stats -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hzamanshohag&theme=github-dark&bg_color=0D1117&hide_border=true&radius=15" height="180em"/>
 
 <!-- GitHub Streak Stats -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=hzamanshohag&theme=tokyonight&hide_border=true&border_radius=15" height="180em"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hzamanshohag&theme=tokyonight&hide_border=true&border_radius=15" height="180em"/> 
 </div>
 
 

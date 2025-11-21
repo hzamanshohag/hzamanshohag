@@ -194,7 +194,7 @@ Let's collaborate and build something **awesome + meaningful** together 💻⚡
 
 <img src="https://komarev.com/ghpvc/?username=hzamanshohag&label=Profile%20Views&color=0b82f1&style=flat-square" alt="Profile Views"/>
 <a href="https://github.com/hzamanshohag?tab=followers">
-  <img src="https://img.shields.io/github/followers/hzamanshohag?label=Followers&style=flat-square&color=00F5FF" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/hzamanshohag?label=Followers&style=flat-square&color=0b82f1" alt="GitHub Followers"/>
 </a>
 
 </div>

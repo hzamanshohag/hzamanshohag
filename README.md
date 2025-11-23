@@ -187,14 +187,22 @@
 ### 🌟 Creating Magic Together
 <div align="center">
   
-💙 *Thank you for visiting my profile!*  
-Let's collaborate and build something **awesome + meaningful** together 💻⚡  
+💙 <i>Thank you for visiting my profile!</i>  
+Let's collaborate and build something <b>awesome + meaningful</b> together 💻⚡  
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=hzamanshohag&label=Profile%20Views&color=0b82f1&style=flat-square" alt="Profile Views"/>
+
 <a href="https://github.com/hzamanshohag?tab=followers">
   <img src="https://img.shields.io/github/followers/hzamanshohag?label=Followers&style=flat-square&color=0b82f1" alt="GitHub Followers"/>
+</a>
+
+<br/>
+
+<!-- WakaTime Badge -->
+<a href="https://wakatime.com/@hzamanshohag">
+  <img src="https://wakatime.com/badge/user/69c00234-7ecc-402a-8bde-a26d561af9ec.svg" alt="WakaTime Badge"/>
 </a>
 
 </div>

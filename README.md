@@ -1,71 +1,46 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi! I'm Md Hasanuzzaman Shohag</h1>
-
-
-
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Robot&size=50&pause=1000&center=true&vCenter=true&width=900&height=80&duration=4000&lines=Full+Stack+MERN+Developer;NextJS+Developer;Customization+Expert;Lifelong+Learner&color=12C2E9" alt="Typing Animation"/>
-</p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Robot&size=50&pause=1000&center=true&vCenter=true&width=900&height=80&duration=4000&lines=Full+Stack+Developer;NextJS+Developer;Lifelong+Learner&color=12C2E9" alt="Typing Animation"/>
+</p> -->
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="./hzaman_shohag.jpg" alt="Md Hasanuzzaman Shohag" width="60%" style="border-radius:20px; box-shadow:0 0 30px rgba(0,0,0,0.5);" />
+  <img src="./hzaman_shohag.jpg" alt="Md Hasanuzzaman Shohag" style="border-radius:20px; box-shadow:0 0 30px rgba(0,0,0,0.5);" />
 </p>
 
+<!-- PROFILE HEADER -->
+# Md Hasanuzzaman Shohag 
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+**Full stack Developer · Khulna, Bangladesh**
+I focus on both frontend and backend development - creating intuitive user interfaces, developing secure RESTful APIs, managing databases, and integrating third-party services. I’m passionate about writing clean, maintainable code while following modern development best practices.
+
+- **Currently focused on:** Next.js, Express.js
+- **Frontend Development:** JavaScript (ES6), TypeScript, React.js, Redux Toolkit, Tailwind CSS, Shadcn UI
+- **Backend Development:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, Zod (Schema Validation)
+- **Tools & Platforms:** GitHub, Netlify, Firebase, Vercel, VS Code, Chrome DevTools, Figma
+- **Reach me:** [hzaman.live@gmail.com](mailto:hzaman.live@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hzaman-shohag/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🧠 About Me
-💼 **Full-Stack MERN Developer** passionate about crafting performant web apps with clean UI and smart backend logic.  
-⚙️ Experienced in **TypeScript**, **Next.js**, **Redux**, and **Tailwind CSS**.  
-📊 Blends **SEO & Digital Marketing** into development for conversion-optimized web experiences.  
-🎨 Believes in the power of **design, performance, and user experience**.  
-🌱 Currently leveling up on **Next.js** & **Advanced TypeScript**.  
-📧 Reach me at: [hzaman.live@gmail.com](mailto:hzaman.live@gmail.com)  
-📞 WhatsApp me: [+880 1312116844](https://wa.me/8801312116844)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 💻 Tech Stack
+### Technologies
 <div align="center">
 
-#### 🧩 **Programming Languages**
-<img src="https://skillicons.dev/icons?i=js,ts" height="50" />
-
-#### 🎨 **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,typescript" height="50" />
-
-#### ⚙️ **Backend Skills**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="50" />
-
-#### 🧰 **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=vscode,git,figma,postman,notion,vercel,netlify,vite" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="50" alt="ChatGPT" />
-<img src="https://camo.githubusercontent.com/88aebe3aa95291442aab57bd50cad593c7f68fbbd7f723efc5dfcd5428c0966d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63616e76612f63616e76612d6f726967696e616c2e737667" height="50" alt="canva logo" />
-<img src="https://i.ibb.co.com/pjdpx4qj/c-Panel-logo-rounded.png" height="50" alt="cpanel logo" />
-
-</div>
+| Skills Overview           | Technologies |
+| ------------------------- | ------------ |
+| **Languages**             | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss) ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-333333?style=flat&logo=radixui) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) |
+| **Back-End Development**  | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) |
+| **Database**              | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
+| **Tools & Platforms**     | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ⚡ GitHub Analytics
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hzamanshohag&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzamanshohag&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
-
-<br/>
-
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hzamanshohag&theme=tokyonight&hide_border=true&border_radius=15" 
-       height="180em" 
-       alt="Daily Streak (Live)" 
-  />
-</div>
-</div>
+### GitHub Activity
+| GitHub Streak                                                                                                                                                      | Top Languages                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub streak stats](https://streak-stats.demolab.com/?user=rjspyk5&theme=dark&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideNums=9f9f9f&sideLabels=9f9f9f) | ![Sy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjspyk5&show_icons=true&title_color=f6c32c&icon_color=4CAF50&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&langs_count=10) |
 
 
 
@@ -73,7 +48,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table align="center">
   <thead>
@@ -89,7 +64,7 @@
       <td align="center">
         <a href="https://github.com/hzamanshohag/electropoll"><b>ElectroPoll</b></a>
       </td>
-      <td align="center">Real-time voting platform with live results, admin dashboard, and secure authentication 🗳️</td>
+      <td align="center">Real-time voting platform with live results, admin dashboard, and secure authentication </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Next.js-15-000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io" />
@@ -103,7 +78,7 @@
       <td align="center">
         <a href="https://github.com/hzamanshohag/devmart"><b>DevMart</b></a>
       </td>
-      <td align="center">E-commerce platform for developers with cart, wishlist, and payment integration 🛒</td>
+      <td align="center">E-commerce platform for developers with cart, wishlist, and payment integration </td>
       <td align="center">
         <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" />
@@ -117,7 +92,7 @@
       <td align="center">
         <a href="https://github.com/hzamanshohag/taskflow-pro"><b>TaskFlow Pro</b></a>
       </td>
-      <td align="center">Advanced project management tool with drag-drop, team collaboration & analytics 📊</td>
+      <td align="center">Advanced project management tool with drag-drop, team collaboration & analytics </td>
       <td align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
@@ -131,7 +106,7 @@
       <td align="center">
         <a href="https://github.com/hzamanshohag/ai-content-generator"><b>AI Content Studio</b></a>
       </td>
-      <td align="center">AI-powered content generation platform with GPT integration and template library 🤖</td>
+      <td align="center">AI-powered content generation platform with GPT integration and template library </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Next.js-15-000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai" />
@@ -145,7 +120,7 @@
       <td align="center">
         <a href="https://github.com/hzamanshohag/fit-tracker"><b>FitTracker</b></a>
       </td>
-      <td align="center">Fitness tracking app with workout plans, progress analytics, and social features 💪</td>
+      <td align="center">Fitness tracking app with workout plans, progress analytics, and social features </td>
       <td align="center">
         <img src="https://img.shields.io/badge/MERN-4EA94B?style=flat-square&logo=mongodb" />
         <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs" />
@@ -158,15 +133,15 @@
   </tbody>
 </table>
 
-### 💡 Currently Building
-- **CodeCollab** - Real-time code editor with video calls 👨‍💻
-- **FinanceFlow** - Personal finance dashboard with AI insights 💰
-- **EduPlatform** - Interactive learning management system 🎓
+### Currently Building
+- **CodeCollab** - Real-time code editor with video calls 
+- **FinanceFlow** - Personal finance dashboard with AI insights 
+- **EduPlatform** - Interactive learning management system 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🌐 Connect With Me
+### Connect With Me
 <div align="center">
 
 <a href="https://facebook.com/hzaman.shohag"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -178,7 +153,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🌀 Profile Activity
+### Profile Activity
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -189,11 +164,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🌟 Creating Magic Together
+### Creating Magic Together
 <div align="center">
   
 💙 <i>Thank you for visiting my profile!</i>  
-Let's collaborate and build something <b>awesome + meaningful</b> together 💻⚡  
+Let's collaborate and build something <b>awesome + meaningful</b> together 
 
 <br/>
 

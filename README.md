@@ -13,7 +13,7 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-**Full stack Developer · Khulna, Bangladesh**
+**Full stack Developer · Khulna, Bangladesh** - 
 I focus on both frontend and backend development - creating intuitive user interfaces, developing secure RESTful APIs, managing databases, and integrating third-party services. I’m passionate about writing clean, maintainable code while following modern development best practices.
 
 - **Currently focused on:** Next.js, Express.js
@@ -30,10 +30,10 @@ I focus on both frontend and backend development - creating intuitive user inter
 | Skills Overview           | Technologies |
 | ------------------------- | ------------ |
 | **Languages**             | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) |
-| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss) ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-333333?style=flat&logo=radixui) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) |
-| **Back-End Development**  | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) |
+| **Frontend Technologies** | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss) ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-333333?style=flat&logo=shadcnui) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-333333?style=flat&logo=redux&logoColor=764ABC) |
+| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose&logoColor=880000) ![Passport.js](https://img.shields.io/badge/-Passport.js-333333?style=flat&logo=passport) ![Zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod) |
 | **Database**              | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
-| **Tools & Platforms**     | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-333333?style=flat&logo=githubcopilot) ![Codex](https://img.shields.io/badge/-Codex-333333?style=flat&logo=openai) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -53,10 +53,10 @@ I focus on both frontend and backend development - creating intuitive user inter
 <table align="center">
   <thead>
     <tr>
-      <th align="center">🌐 Project</th>
-      <th align="center">📝 Description</th>
-      <th align="center">⚙️ Tech Stack</th>
-      <th align="center">🔗 Live Demo</th>
+      <th align="center">Project</th>
+      <th align="center">Description</th>
+      <th align="center">Tech Stack</th>
+      <th align="center">Live Demo</th>
     </tr>
   </thead>
   <tbody>

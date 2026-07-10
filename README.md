@@ -40,7 +40,7 @@ I focus on both frontend and backend development - creating intuitive user inter
 ### GitHub Activity
 | GitHub Streak                                                                                                                                                      | Top Languages                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![GitHub streak stats](https://streak-stats.demolab.com/?user=rjspyk5&theme=dark&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideNums=9f9f9f&sideLabels=9f9f9f) | ![Sy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjspyk5&show_icons=true&title_color=f6c32c&icon_color=4CAF50&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&langs_count=10) |
+| ![GitHub streak stats](https://streak-stats.demolab.com/?user=hzamanshohag&theme=dark&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideNums=9f9f9f&sideLabels=9f9f9f) | ![Hz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hzamanshohag&show_icons=true&title_color=f6c32c&icon_color=4CAF50&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&langs_count=10) |
 
 
 

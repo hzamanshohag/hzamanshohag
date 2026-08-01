@@ -134,8 +134,7 @@ I focus on both frontend and backend development - creating intuitive user inter
 </table>
 
 ### Currently Building
-- **CodeCollab** - Real-time code editor with video calls 
-- **FinanceFlow** - Personal finance dashboard with AI insights
+- **CodeCollab** - Real-time code editor with video calls
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

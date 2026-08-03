@@ -88,20 +88,26 @@ I focus on both frontend and backend development - creating intuitive user inter
         <a href="https://devmart.vercel.app">🚀 Live</a>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/hzamanshohag/taskflow-pro"><b>TaskFlow Pro</b></a>
-      </td>
-      <td align="center">Advanced project management tool with drag-drop, team collaboration & analytics </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" />
-      </td>
-      <td align="center">
-        <a href="https://taskflow-pro.vercel.app">🚀 Live</a>
-      </td>
-    </tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/hzamanshohag/dot-mart-client"><b>Dotmart</b></a>
+  </td>
+
+  <td align="center">
+    A full stack single vendor e-commerce platform featuring secure authentication, product management, shopping cart, order processing, and AamarPay payment integration.
+  </td>
+
+  <td align="center">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
+  </td>
+
+  <td align="center">
+    <a href="https://dotmart.vercel.app">🚀 Live</a>
+  </td>
+</tr>
     <tr>
       <td align="center">
         <a href="https://github.com/hzamanshohag/ai-content-generator"><b>AI Content Studio</b></a>

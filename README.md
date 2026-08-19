@@ -38,9 +38,28 @@ I focus on both frontend and backend development - creating intuitive user inter
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### GitHub Activity
-| GitHub Stats | GitHub Contributions |
-| :---: | :---: |
-|![GitHub streak stats](https://streak-stats.demolab.com/?user=hzamanshohag&theme=dark&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideNums=9f9f9f&sideLabels=9f9f9f)| ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=hzamanshohag&theme=github-dark&hide_border=true) |
+<table>
+  <tr>
+    <th width="50%">GitHub Stats</th>
+    <th width="50%">GitHub Contributions</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=hzamanshohag&theme=dark&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideNums=9f9f9f&sideLabels=9f9f9f"
+        width="100%"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=hzamanshohag&theme=github-dark&hide_border=true"
+        width="100%"
+        alt="GitHub Contributions"
+      />
+    </td>
+  </tr>
+</table>
 
 
 

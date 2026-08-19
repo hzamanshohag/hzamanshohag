@@ -27,13 +27,66 @@ I focus on both frontend and backend development - creating intuitive user inter
 ### Technologies
 <div align="center">
 
-| Skills Overview           | Technologies |
-| ------------------------- | ------------ |
-| **Languages**             | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) |
-| **Frontend Technologies** | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss) ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-333333?style=flat&logo=shadcnui) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-333333?style=flat&logo=redux&logoColor=764ABC) |
-| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose&logoColor=880000) ![Passport.js](https://img.shields.io/badge/-Passport.js-333333?style=flat&logo=passport) ![Zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod) |
-| **Database**              | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-333333?style=flat&logo=githubcopilot) ![Codex](https://img.shields.io/badge/-Codex-333333?style=flat&logo=openai) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
+<table width="100%">
+  <tr>
+    <th width="30%">Skills Overview</th>
+    <th width="70%">Technologies</th>
+  </tr>
+
+  <tr>
+    <td width="30%"><strong>Languages</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
+      <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" alt="TypeScript">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="30%"><strong>Frontend Technologies</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/-shadcn%2Fui-333333?style=flat&logo=shadcnui" alt="shadcn/ui">
+      <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React">
+      <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="Next.js">
+      <img src="https://img.shields.io/badge/-Redux%20Toolkit-333333?style=flat&logo=redux&logoColor=764ABC" alt="Redux Toolkit">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="30%"><strong>Back-End Development</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js">
+      <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express" alt="Express.js">
+      <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB">
+      <img src="https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose&logoColor=880000" alt="Mongoose">
+      <img src="https://img.shields.io/badge/-Passport.js-333333?style=flat&logo=passport" alt="Passport.js">
+      <img src="https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod" alt="Zod">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="30%"><strong>Database</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="30%"><strong>Tools &amp; Platforms</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
+      <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
+      <img src="https://img.shields.io/badge/-GitHub%20Copilot-333333?style=flat&logo=githubcopilot" alt="GitHub Copilot">
+      <img src="https://img.shields.io/badge/-Codex-333333?style=flat&logo=openai" alt="Codex">
+      <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" alt="Firebase">
+      <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens" alt="JWT">
+      <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman">
+      <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" alt="VS Code">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

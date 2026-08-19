@@ -38,11 +38,9 @@ I focus on both frontend and backend development - creating intuitive user inter
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### GitHub Activity
-| GitHub Streak                                                                                                                                                      | Top Languages                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![GitHub streak stats](https://streak-stats.demolab.com/?user=hzamanshohag&theme=dark&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideNums=9f9f9f&sideLabels=9f9f9f) | ![Hz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hzamanshohag&show_icons=true&title_color=f6c32c&icon_color=4CAF50&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&langs_count=10) |
-
-
+| GitHub Stats | GitHub Contributions |
+| :---: | :---: |
+|![GitHub streak stats](https://streak-stats.demolab.com/?user=hzamanshohag&theme=dark&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideNums=9f9f9f&sideLabels=9f9f9f)| ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=hzamanshohag&theme=github-dark&hide_border=true) |
 
 
 

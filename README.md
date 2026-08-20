@@ -94,10 +94,16 @@ I focus on both frontend and backend development - creating intuitive user inter
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img
+      <!-- <img
         src="https://streak-stats.demolab.com/?user=hzamanshohag&theme=dark&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideNums=9f9f9f&sideLabels=9f9f9f"
         width="100%"
         alt="GitHub Stats"
+      /> -->
+        <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=hzamanshohag&theme=github_dark"
+        width="100%"
+      height="160"
+      alt="GitHub Stats"
       />
     </td>
     <td width="50%" align="center">

@@ -132,7 +132,7 @@ I focus on both frontend and backend development - creating intuitive user inter
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <!-- <tr>
       <td align="center">
         <a href="https://github.com/hzamanshohag/electropoll"><b>ElectroPoll</b></a>
       </td>
@@ -145,7 +145,7 @@ I focus on both frontend and backend development - creating intuitive user inter
       <td align="center">
         <a href="https://electropoll.vercel.app">🚀 Live</a>
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td align="center">
         <a href="https://github.com/hzamanshohag/devmart"><b>DevMart</b></a>

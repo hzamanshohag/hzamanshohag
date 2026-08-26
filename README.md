@@ -212,7 +212,7 @@ I focus on both frontend and backend development - creating intuitive user inter
 </table>
 
 ### Currently Building
-- **Dotmeet** - AI-powered appointment booking platform for smarter scheduling and customer support.
+- **Dotmeet** - AI-Powered Portfolio, Business & Appointment Management Platform
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

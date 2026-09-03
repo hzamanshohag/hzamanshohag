@@ -194,20 +194,6 @@ I focus on both frontend and backend development - creating intuitive user inter
         <a href="https://ai-content-studio.vercel.app">🚀 Live</a>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/hzamanshohag/fit-tracker"><b>FitTracker</b></a>
-      </td>
-      <td align="center">Fitness tracking app with workout plans, progress analytics, and social features </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/MERN-4EA94B?style=flat-square&logo=mongodb" />
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens" />
-      </td>
-      <td align="center">
-        <a href="https://fittracker-app.vercel.app">🚀 Live</a>
-      </td>
-    </tr>
   </tbody>
 </table>
 

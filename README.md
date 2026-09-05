@@ -162,7 +162,7 @@ I focus on both frontend and backend development - creating intuitive user inter
     </tr>
 <tr>
   <td align="center">
-    <a href="https://github.com/hzamanshohag/dot-mart-client"><b>Dotmart</b></a>
+    <a href="https://github.com/hzamanshohag/dot-mart-client"><b>DotMart</b></a>
   </td>
 
   <td align="center">
@@ -182,9 +182,9 @@ I focus on both frontend and backend development - creating intuitive user inter
 </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/hzamanshohag/ai-content-generator"><b>AI Content Studio</b></a>
+        <a href="https://github.com/hzamanshohag/chayachando-frontend"><b>ChayaChando</b></a>
       </td>
-      <td align="center">AI-powered content generation platform with GPT integration and template library </td>
+      <td align="center">A modern news, media, and journalism platform designed to deliver the latest national and international news</td>
       <td align="center">
         <img src="https://img.shields.io/badge/Next.js-15-000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai" />

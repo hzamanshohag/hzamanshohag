@@ -157,7 +157,7 @@ I focus on both frontend and backend development - creating intuitive user inter
         <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe" />
       </td>
       <td align="center">
-        <a href="https://devmart.vercel.app">🚀 Live</a>
+        <a href="https://devmart.vercel.app">Live</a>
       </td>
     </tr>
 <tr>
@@ -177,7 +177,7 @@ I focus on both frontend and backend development - creating intuitive user inter
   </td>
 
   <td align="center">
-    <a href="https://dotmart.vercel.app">🚀 Live</a>
+    <a href="https://dotmart.vercel.app">Live</a>
   </td>
 </tr>
     <tr>
@@ -191,7 +191,7 @@ I focus on both frontend and backend development - creating intuitive user inter
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss" />
       </td>
       <td align="center">
-        <a href="https://ai-content-studio.vercel.app">🚀 Live</a>
+        <a href="https://ai-content-studio.vercel.app">Live</a>
       </td>
     </tr>
   </tbody>

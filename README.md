@@ -186,12 +186,13 @@ I focus on both frontend and backend development - creating intuitive user inter
       </td>
       <td align="center">A modern news, media, and journalism platform designed to deliver the latest national and international news</td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Next.js-15-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss" />
+    <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
       </td>
       <td align="center">
-        <a href="https://ai-content-studio.vercel.app">Live</a>
+        <a href="https://chayachando.netlify.app">Live</a>
       </td>
     </tr>
   </tbody>

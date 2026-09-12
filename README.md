@@ -143,7 +143,7 @@ I focus on both frontend and backend development - creating intuitive user inter
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
       </td>
       <td align="center">
-        <a href="https://electropoll.vercel.app">🚀 Live</a>
+        <a href="https://electropoll.vercel.app">Live</a>
       </td>
     </tr> -->
     <tr>
@@ -169,12 +169,17 @@ I focus on both frontend and backend development - creating intuitive user inter
     A full stack single vendor e-commerce platform featuring secure authentication, product management, shopping cart, order processing, and AamarPay payment integration.
   </td>
 
-  <td align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
-  </td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</td>
 
   <td align="center">
     <a href="https://dotmart.vercel.app">Live</a>

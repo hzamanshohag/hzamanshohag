@@ -143,21 +143,21 @@ I focus on both frontend and backend development - creating intuitive user inter
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
       </td>
       <td align="center">
-        <a href="https://electropoll.vercel.app">Live</a>
+        <a href="https://dotmeet.vercel.app">Live</a>
       </td>
     </tr> -->
     <tr>
       <td align="center">
-        <a href="https://github.com/hzamanshohag/devmart"><b>DevMart</b></a>
+        <a href="https://github.com/hzamanshohag/dotmeet"><b>DevMart</b></a>
       </td>
-      <td align="center">E-commerce platform for developers with cart, wishlist, and payment integration </td>
+      <td align="center">AI-Powered Portfolio, Business & Appointment Management Platform</td>
       <td align="center">
         <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" />
         <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe" />
       </td>
       <td align="center">
-        <a href="https://devmart.vercel.app">Live</a>
+        <a href="https://dotmeet.vercel.app">Live</a>
       </td>
     </tr>
 <tr>

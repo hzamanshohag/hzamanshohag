@@ -148,7 +148,7 @@ I focus on both frontend and backend development - creating intuitive user inter
     </tr> -->
     <tr>
       <td align="center">
-        <a href="https://github.com/hzamanshohag/dotmeet"><b>DevMart</b></a>
+        <a href="https://github.com/hzamanshohag/dotmeet"><b>DetMeet</b></a>
       </td>
       <td align="center">AI-Powered Portfolio, Business & Appointment Management Platform</td>
       <td align="center">

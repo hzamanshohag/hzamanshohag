@@ -152,9 +152,16 @@ I focus on both frontend and backend development - creating intuitive user inter
       </td>
       <td align="center">AI-Powered Portfolio, Business & Appointment Management Platform</td>
       <td align="center">
-        <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" />
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+       <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
       </td>
       <td align="center">
         <a href="https://dotmeet.vercel.app">Live</a>
